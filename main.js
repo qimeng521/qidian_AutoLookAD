@@ -70,8 +70,8 @@ for (let index = 1; index < 11; index++) {
         continue
     }    
     meButton.click()
-    toastLog("看视频等待20s" + caption)
-    sleep(20000)
+    toastLog("看视频等待30s" + caption)
+    sleep(30000)
     Close()  
     sleep(2000)
     toastLog("查找开心收下")
